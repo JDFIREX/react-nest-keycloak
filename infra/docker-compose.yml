@@ -1,5 +1,5 @@
 version: '3'
-name: keycloak-local
+name: react-nest-keycloak
 services:
   keycloak:
     image: quay.io/keycloak/keycloak:22.0.1
